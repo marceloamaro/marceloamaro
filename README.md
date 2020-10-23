@@ -4,8 +4,7 @@
 ![](https://github.com/marceloamaro/marceloamaro/blob/main/logoVetor13.png)
 
 
-Skills: linguagem C
-
+Skills: linguagem C\ postgresql
 
 
 
